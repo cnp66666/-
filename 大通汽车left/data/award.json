@@ -1,0 +1,6 @@
+{
+	"award":[
+		{"src":"image/tt.png","name":"金秋回馈抽奖活动","price":120000,"max":10,"min":5,"num":8066690,"begindate":"2011-11-22","deadline":"2011-11-22"},
+		{"src":"image/ty.png","name":"金秋回馈抽奖活动","price":120000,"max":10,"min":5,"num":8066690,"begindate":"2011-11-22","deadline":"2011-11-22"}
+	]
+}

@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none; }
+
+.uesercuxiao {
+  border-bottom: 1px solid #DCDCDC;
+  float: left;
+  font-size: 12px;
+  width: 724px;
+  height: 24px; }
+
+.uesercuxiao .cuxiao {
+  float: left;
+  line-height: 24px; }
+
+.uesercuxiao .cuxiao img {
+  position: relative;
+  top: 2px;
+  margin-top: 3px; }
+
+.uesercuxiao .cuxiao span {
+  font-size: 14px; }
+
+.dayscuxiao {
+	float: left;
+  width: 724px;
+  padding: 5px;
+  font-size: 12px; }
+  .dayscuxiao .cuxiaoxinxi {
+    padding: 10px;
+    width: 690px;
+    height: 100px;
+    background: #DCDCDC;
+    margin-top: 20px; }
+    .dayscuxiao .cuxiaoxinxi .xinxi1 {
+      float: left;
+      width: 490px;
+      height: 100px;
+      background: #DCDCDC;
+      line-height: 24px; }
+      .dayscuxiao .cuxiaoxinxi .xinxi1 p {
+        margin-top: 10px; }
+      .dayscuxiao .cuxiaoxinxi .xinxi1 a {
+        color: black; }
+    .dayscuxiao .cuxiaoxinxi .xinxi2 {
+      text-align: right;
+      float: left;
+      width: 200px;
+      height: 100px;
+      background: #DCDCDC; }
+      .dayscuxiao .cuxiaoxinxi .xinxi2 p {
+        position: relative;
+        right: 2px;
+        top: 36px; }
+      .dayscuxiao .cuxiaoxinxi .xinxi2 p:last-child {
+        line-height: 24px;
+        top: 44px; }
+
+.xinxi-p1 {
+  font-size: 16px;
+  position: relative;
+  top: -14px; }
+  .xinxi-p1 .xinxi1-span {
+    color: red; }
+  .xinxi-p1 a {
+    color: black; }
+
+.xinxi-p2 {
+  position: relative;
+  top: -14px; }
+
+.usercuxiaofooter {
+  float: left;
+  width: 724px;
+  margin-top: 50px;
+  text-align: center; }
+
+.usercuxiaofooter button {
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(top, #cccccc, #A1A1A1);
+  border-radius: 5px;
+  color: #797979; }
+
+.footer-button1 {
+  background: black;
+  color: white; }
+
+/*# sourceMappingURL=cuxiao.css.map */

@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.bazaarBox{
+    width: 712px;
+    float: left;
+}
+
+
+.bazaarBox .box_top{
+    width: 700px;
+    margin: 0 auto;
+    border-bottom: 1px solid #c9c5c5;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+
+.bazaarBox .box_top h2{
+    float: left;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 18px 0 0 6px;
+}
+
+
+.clearfix:after{
+    display: block;
+    clear: both;
+    content: '';
+}
+
+
+.bazaarBox .box_top i{
+    float: left;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 16px 0 7px 12px;
+    width: 19px;
+    height: 16px;
+    background: url("../img/car.png") no-repeat;
+    background-size: 100%;
+}
+
+#ylist{}
+
+#ylist li{
+    display: flex;
+}
+#ylist li .left{
+    width: 132px;
+    height: 102px;
+    padding: 18px 47px 40px 20px;
+}
+#ylist li .left img{
+    width: 100%;
+    height: 100%;
+}
+
+#ylist li .right{}
+
+#ylist li .right h2{
+    font-size: 12px;
+    margin-top: 26px;
+}
+
+#ylist li .right .ljjs{
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+#ylist li .right .ljjs span{
+    color: red;
+}
+
+
+#ylist li .right .hy{
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+#ylist li .right .hy span{
+    color: red;
+    display: inline-block;
+    /*padding: 8px 0 6px 0;*/
+}
+
+#ylist li .right .cnt{
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+#ylist li .right input{
+    height: 20px;
+    font-size: 12px;
+    border-radius: 3px;
+    border: 1px solid #DDDDDD;
+    color: #757575;
+}
+
+#ylist li .right .btn1{
+    display: inline-block;
+    padding: 1px 14px;
+}
+
+#ylist li .right .btn2{
+    margin-left: 7px;
+    padding: 1px 2px;
+    display: inline-block;
+}

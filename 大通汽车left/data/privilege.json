@@ -1,0 +1,18 @@
+{
+	"list":[
+		{
+			"src":"../img/car_03.png",
+			"name":"2012款PLOL",
+			"price":"1000元",
+			"date":"90",
+			"annotation":"哈哈哈哈哈哈哈"
+		},
+		{
+			"src":"../img/car_06.png",
+			"name":"2015款帕沙特",
+			"price":"11元",
+			"date":"88",
+			"annotation":"呵呵呵呵呵呵呵"
+		}
+	]
+}

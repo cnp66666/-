@@ -1,0 +1,53 @@
+.relation_box {
+  width: 726px;
+  padding-top: 12px; }
+  .relation_box .relation h5 {
+    height: 28px;
+    padding-left: 29px;
+    border-bottom: 1px solid #dcdcdc;
+    padding-bottom: 9px;
+    position: relative;
+    line-height: 28px; }
+    .relation_box .relation h5 .car_logo {
+      width: 18px;
+      height: 21px;
+      position: absolute;
+      background: url(../img/car_logo.png) no-repeat 0px 6px;
+      left: 6px; }
+  .relation_box .relation ul {
+    padding: 19px 29px; }
+    .relation_box .relation ul li {
+      padding-bottom: 14px;
+      height: 13px;
+      line-height: 13px; }
+      .relation_box .relation ul li .address {
+        float: left;
+        font-size: 13px;
+        color: #2c2c2c; }
+      .relation_box .relation ul li .details {
+        float: left;
+        font-size: 11px;
+        color: #636363;
+        line-height: 16px; }
+    .relation_box .relation ul .qq {
+      position: relative; }
+      .relation_box .relation ul .qq .qq_logo {
+        position: absolute;
+        width: 74px;
+        height: 22px;
+        background: url(../img/qq.png) no-repeat;
+        top: -5px;
+        left: 114px; }
+  .relation_box .map_box {
+    margin-top: 33px;
+    padding-left: 40px; }
+    .relation_box .map_box .tit {
+      margin-top: 30px; }
+    .relation_box .map_box .map {
+      width: 610px;
+      height: 412px;
+      border: 1px solid #9e9d9d;
+      /*overflow: hidden;*/
+       }
+
+/*# sourceMappingURL=relation.css.map */

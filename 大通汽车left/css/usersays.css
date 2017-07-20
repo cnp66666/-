@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none; }
+
+.uesersays {
+  border-bottom: 1px solid #DCDCDC;
+  font-size: 12px;
+  width: 724px;
+  height: 24px;
+  float: left; }
+
+.uesersays .says1 {
+  float: left;
+  line-height: 24px; }
+
+.uesersays .says1 img {
+  position: relative;
+  top: 2px;
+  margin-top: 3px; }
+
+.uesersays .says2 {
+  float: right;
+  border-radius: 5px 5px 0px 0px;
+  border: 1px solid #DCDCDC;
+  padding: 2px; }
+
+.uesersays .says2 span {
+  border-radius: 5px 5px 0px 0px;
+  background: #DCDCDC;
+  padding: 2px 3px 2px;
+  position: relative;
+  top: 2px; }
+
+.says3 {
+  width: 724px;
+  font-size: 12px;
+  padding: 0px 30px 0px;
+  float: left; }
+
+.says3 > div {
+  width: 600px;
+  height: 235px;
+  margin-left: 30px; }
+
+.says3 > div:first-child {
+  padding: 0;
+  border-bottom: 1px dashed #DCDCDC; }
+
+.says3 .server {
+  float: left;
+  width: 100px;
+  margin-top: 12px; }
+
+.says3 .server ul li {
+  line-height: 30px; }
+
+.says3 .moresays {
+  width: 500px;
+  margin-top: -5px;
+  float: left; }
+
+.says3 .moresays p {
+  line-height: 30px; }
+
+.says3 .moresays .moresays-p1 {
+  position: relative;
+  top: 15px; }
+
+.says3 .moresays .moresays-p2{
+	position: relative;
+	top: 15px;
+}
+.says3 .moresays .moresays-p3 {
+	position: relative;
+	top: 20px;
+  border: 1px solid #DCDCDC;
+  padding: 18px; }
+
+.says3 .moresays .moresays-span {
+  color: #009999; }
+
+.says3 .moresays .moresays-span1 {
+  color: #FF3333;
+  font-size: 16px; }
+
+.usersaysfooter {
+  float: left;
+  width: 724px;
+  margin-top: 50px;
+  text-align: center; }
+
+.usersaysfooter button {
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(top, #cccccc, #A1A1A1);
+  border-radius: 5px;
+  color: #797979; }
+
+.footerbutton1 {
+  background: black;
+  color: white; }
+
+/*# sourceMappingURL=usersays.css.map */

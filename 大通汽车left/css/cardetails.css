@@ -1,0 +1,45 @@
+.qc {
+  width: 700px;
+  float: left;
+  margin-left: 15px; }
+  .qc .qcheader {
+    font-size: 12px;
+    height: 38px;
+    line-height: 46px;
+    border-bottom: 1px solid #dcdcdc; }
+    .qc .qcheader .qctb {
+      float: left; }
+    .qc .qcheader .fh {
+      float: right;
+      font-size: 12px; }
+  .qc .qch1 {
+    font-size: 16px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: 5px;
+    text-align: center; }
+  .qc .qcbq {
+    font-size: 12px;
+    text-align: center;
+    height: 42px;
+    line-height: 42px;
+    margin-top: -5px;
+    border-bottom: 1px dashed #cccccc; }
+    .qc .qcbq .qcbqspan2, .qc .qcbq .qcbqspan3 {
+      color: red; }
+  .qc .qcfoot {
+    width: 700px; }
+    .qc .qcfoot .qcimg {
+      width: 512px;
+      height: 276px;
+      margin-top: 14px;
+      margin: 14px auto; }
+    .qc .qcfoot .qcp {
+      width: 512px;
+      margin-top: 11px;
+      margin: 0 auto;
+      font-size: 14px; }
+      .qc .qcfoot .qcp p {
+        height: 24px;
+        line-height: 24px;
+        width: 280px; }

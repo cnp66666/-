@@ -1,0 +1,80 @@
+.award_box {
+  width: 726px;
+  padding-top: 12px; }
+  .award_box .award h5 {
+    height: 28px;
+    padding-left: 29px;
+    border-bottom: 1px solid #dcdcdc;
+    padding-bottom: 9px;
+    position: relative;
+    line-height: 28px; }
+    .award_box .award h5 .car_logo {
+      width: 18px;
+      height: 21px;
+      position: absolute;
+      background: url(../img/car_logo.png) no-repeat 0px 6px;
+      left: 6px; }
+  .award_box .award ul {
+    padding: 13px 10px; }
+    .award_box .award ul li {
+      padding-bottom: 20px;
+      border-bottom: 1px dashed #cdcdcd; }
+      .award_box .award ul li div {
+        float: left; }
+      .award_box .award ul li .award_img {
+        width: 164px;
+        height: 164px;
+        position: relative; }
+        .award_box .award ul li .award_img img {
+          width: 164px;
+          height: 164px; }
+        .award_box .award ul li .award_img .on {
+          position: absolute;
+          width: 62px;
+          height: 62px;
+          background: url(../img/award.png) no-repeat;
+          top: -2px;
+          left: -1px; }
+      .award_box .award ul li .award_details {
+        padding: 25px 16px; }
+        .award_box .award ul li .award_details .award_name {
+          font-size: 14px; }
+        .award_box .award ul li .award_details .award_cost {
+          font-size: 12px; }
+          .award_box .award ul li .award_details .award_cost span {
+            font-size: 20px; }
+        .award_box .award ul li .award_details .award_begin {
+          margin-top: 5px;
+          font-size: 11px; }
+      .award_box .award ul li .award_particpation {
+        float: right;
+        padding-right: 34px;
+        padding-top: 36px; }
+        .award_box .award ul li .award_particpation .award_particpation_num {
+          font-size: 12px;
+          color: #a3a3a3; }
+        .award_box .award ul li .award_particpation a {
+          display: block;
+          margin-top: 12px;
+          margin-left: 6px; }
+          .award_box .award ul li .award_particpation a button {
+            width: 96px;
+            height: 28px;
+            background: url(../img/btn1.png) no-repeat;
+            border: none;
+            outline: none;
+            color: #fff; }
+    .award_box .award ul li:last-child {
+      margin: 22px 0;
+      padding-bottom: 31px; }
+      .award_box .award ul li:last-child .award_img .on {
+        display: none; }
+      .award_box .award ul li:last-child .award_particpation a button {
+        width: 96px;
+        height: 28px;
+        background: url(../img/btn2.png) no-repeat;
+        border: none;
+        outline: none;
+        color: #fff; }
+
+/*# sourceMappingURL=award.css.map */

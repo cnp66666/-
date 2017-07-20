@@ -1,0 +1,20 @@
+{
+	"cont":[
+		{	"img":[
+				{"img1":"chezhan3.png"},
+				{"img1":"chezhan4.png"},
+				{"img1":"chezhan4.png"},
+				{"img1":"chezhan4.png"},
+				{"img1":"chezhan4.png"}
+			],
+			"images1":"chezhan1.png",
+			"images2":"chezhan2.png",
+			"images3":"chezhan2.png",
+			"images4":"chezhan2.png",
+			"name":"别克君威",
+			"price":"13000",
+			"date":"2011-9-3 13:21:48",
+			"zi":"暂不支持订购"
+		}
+	]
+}
